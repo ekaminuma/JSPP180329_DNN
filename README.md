@@ -1,9 +1,9 @@
 # JSPP180329_DNN
 
 第59回日本植物生理学会年会
-データベース講習会
-神沼英里「Oxford Flower Image Datasetを用いた深層学習ハンズオン」
-http://www.knt.co.jp/ec/2018/jspp2018/shukai.html
+[データベース講習会](http://www.knt.co.jp/ec/2018/jspp2018/shukai.html)
+
+- 神沼英里「Oxford Flower Image Datasetを用いた深層学習ハンズオン」
 
 ```
 
