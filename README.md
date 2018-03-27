@@ -31,4 +31,4 @@ http://bioinf.mind.meiji.ac.jp/lab/index.php?catid=18&blogid=1
 
 - [http://www.robots.ox.ac.uk/~vgg/data/flowers/102/](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) ダウンロードサイト
 - [102カテゴリの画像枚数とサンプル写真](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/categories.html)
-- [caffe-oxford102 model](https://github.com/jimgoo/caffe-oxford102) , [著者による解説ページ](http://jimgoo.com/flower-power/)
+- [caffe-oxford102 model](https://github.com/jimgoo/caffe-oxford102) , [caffeモデル作者による解説ページ](http://jimgoo.com/flower-power/)
