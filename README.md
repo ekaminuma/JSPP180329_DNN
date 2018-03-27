@@ -4,6 +4,12 @@
 [データベース講習会](http://www.knt.co.jp/ec/2018/jspp2018/shukai.html)
 
 - 神沼英里「Oxford Flower Image Datasetを用いた深層学習ハンズオン」
+- [Oxford 102 Category Flower Image Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) 
+- 訓練データ(102クラスから3クラスのみ抽出)
+    - F1 - water lily
+    - F2 - frangipani
+    - F3 - lotus
+- 画像分類DNNモデルのプログラムコード
 
 ```
 
@@ -21,3 +27,7 @@ http://bioinf.mind.meiji.ac.jp/lab/index.php?catid=18&blogid=1
 この1件目「第59回日本植物生理学会年会・データベース講習会」に、 神沼英里先生（国立遺伝研）「Oxford Flower Image Datasetを用いた深層学習ハンズオン」に関する準備事項を記載しております。 実習形式での参加をご希望の方は、持ち込みPCに事前の設定のほどお願いいたします。 もちろん、従来通り、実習無し（座学のみ）でのご参加も歓迎いたします。
 
 ```
+参考文献
+
+- [http://www.robots.ox.ac.uk/~vgg/data/flowers/102/](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
+- 
