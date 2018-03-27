@@ -30,4 +30,4 @@ http://bioinf.mind.meiji.ac.jp/lab/index.php?catid=18&blogid=1
 参考文献
 
 - [http://www.robots.ox.ac.uk/~vgg/data/flowers/102/](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
-- 
+- [caffe model](https://github.com/jimgoo/caffe-oxford102)
