@@ -9,7 +9,7 @@
     - F0 - water lily
     - F1 - frangipani
     - F2 - lotus
-- [画像分類DNNモデルのプログラムコード](JSPP180329_DNN.ipynb)
+- [画像分類DNNモデルのハンズオンプログラム](JSPP180329_DNN.ipynb)
 
 ```
 
