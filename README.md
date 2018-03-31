@@ -6,10 +6,10 @@
 - 神沼英里「Oxford Flower Image Datasetを用いた深層学習ハンズオン」
 - [Oxford 102 Category Flower Image Dataset](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/) 
 - 訓練データ(102クラスから3クラスのみ抽出)
-    - F1 - water lily
-    - F2 - frangipani
-    - F3 - lotus
-- 画像分類DNNモデルのプログラムコード
+    - F0 - water lily
+    - F1 - frangipani
+    - F2 - lotus
+- [画像分類DNNモデルのプログラムコード](JSPP180329_DNN.ipynb)
 
 ```
 
